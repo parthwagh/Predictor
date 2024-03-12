@@ -7,6 +7,33 @@
   min-height: 100vh;
 }
 
+.headerText {
+  text-align: center;
+}
+
+.textInput {
+  margin-top:  20px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  border: white solid 2px;
+  border-radius: 10px;
+  padding: 5px;
+  padding-inline: 10px;
+}
+
+.predictBtn {
+  padding-inline: 10px;
+  padding-block: 5px;
+  height: 30px;
+  color: black;
+  border: white solid 2px;
+  border-radius: 10px;
+}
+
+.infoText {
+  margin-block: 5px;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
